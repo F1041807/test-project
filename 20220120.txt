@@ -1,8 +1,8 @@
 123456789
 987654321
 
-<<<<<<< HEAD
+
 git issue02
-=======
+
 git issue03 
->>>>>>> 7f73eee... issue03 commit
+
